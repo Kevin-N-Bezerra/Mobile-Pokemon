@@ -7,6 +7,6 @@ Um aplicativo mobile sobre Pokemon
 
 - Kevin Novais Bezerra
 
-  # Descrição
+# Descrição
 
-  # Súmario 
+# Súmario 
