@@ -10,4 +10,4 @@ Um aplicativo mobile sobre Pokemon
 # Descrição
 
 # Súmario 
-1- (https://github.com/Kevin-N-Bezerra/Mobile-Pokemon/wiki)
+[Home](https://github.com/Kevin-N-Bezerra/Mobile-Pokemon/wiki)
