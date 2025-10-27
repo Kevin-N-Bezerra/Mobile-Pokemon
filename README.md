@@ -1,5 +1,4 @@
 # Pokeapp
-Um aplicativo mobile sobre Pokemon
 
 # Integrantes
 
