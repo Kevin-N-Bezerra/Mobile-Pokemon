@@ -2,7 +2,7 @@
 
 # Integrantes
 
-- Daniel Ryu
+- Daniel Ryu Tanabe
 
 - Kevin Novais Bezerra
 
