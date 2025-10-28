@@ -1,4 +1,4 @@
-# Pokeapp
+# PokeApp
 
 # Integrantes
 
