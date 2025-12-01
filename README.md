@@ -18,3 +18,4 @@ O Pokeapp é um aplicativo mobile feito em Flutter com base na API PokéAPI, ond
 - [Telas](https://github.com/Kevin-N-Bezerra/Mobile-Pokemon/wiki/5.-telas)
 - [API](https://github.com/Kevin-N-Bezerra/Mobile-Pokemon/wiki/6.-API)
 - [Créditos](https://github.com/Kevin-N-Bezerra/Mobile-Pokemon/wiki/7.-Cr%C3%A9ditos)
+- [Programação Mobile](https://github.com/Kevin-N-Bezerra/Mobile-Pokemon/wiki/8.-Programa%C3%A7%C3%A3o-Mobile)
