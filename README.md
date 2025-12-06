@@ -8,7 +8,7 @@
 - Kevin Novais Bezerra
 
 # Descrição
-O Pokeapp é um aplicativo mobile feito em Flutter com base na API PokéAPI, onde as informações dessa API foram pegas como base para a criação desse aplicativo, onde é possível sortear um Pokémon aleatório ou pesquisar pelo Pokémon procurando pelo seu nome ou número da Pokédex (Pokédex sendo uma enciclopédia digital dos Pokémon). Após isso, suas informações são mostradas, sendo elas a imagem do Pokémon, seu nome com seu número da Pokédex, sua tipagem, seus status, sendo eles hp, ataque, defesa, ataque especial, defesa especial e velocidade, com uma breve descrição do Pokémon sorteado. Com o botão para sortear o Pokémon na parte inferior da tela.
+O Pokeapp é um aplicativo mobile feito em Flutter com base na API PokéAPI, onde as informações dessa API foram pegas como base para a criação desse aplicativo, onde é possível sortear um Pokémon aleatório ou pesquisar pelo Pokémon procurando pelo seu nome ou número da Pokédex (Pokédex sendo uma enciclopédia digital dos Pokémon). Após isso, suas informações são mostradas, sendo elas a imagem do Pokémon, seu nome com seu número da Pokédex, sua tipagem, seus status, sendo eles hp, ataque, defesa, ataque especial, defesa especial e velocidade, com uma breve descrição do Pokémon sorteado, ele também mostra e explica as habilidades que o pokemon tem e também mostra se tem evolução ou não. Com o botão para sortear o Pokémon na parte inferior da tela.
 
 # Súmario 
 
@@ -19,4 +19,3 @@ O Pokeapp é um aplicativo mobile feito em Flutter com base na API PokéAPI, ond
 - [Telas](https://github.com/Kevin-N-Bezerra/Mobile-Pokemon/wiki/5.-telas)
 - [API](https://github.com/Kevin-N-Bezerra/Mobile-Pokemon/wiki/6.-API)
 - [Créditos](https://github.com/Kevin-N-Bezerra/Mobile-Pokemon/wiki/7.-Cr%C3%A9ditos)
->>>>>>> 2962d56fa4f3ea10f1ac4c7b89c8e9399b0297f7
